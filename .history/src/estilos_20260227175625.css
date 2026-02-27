@@ -1,0 +1,24 @@
+body {
+    background: url(../images/bg-desktop.svg) no-repeat;
+    background-size: contain;
+    background-color: #674BB2;
+    padding: 50px 80px;
+}
+
+.logo{
+    margin-bottom: 80px;
+}
+
+.conteudo {
+    display: flex;
+}
+
+.conteudo .conteudo-principal{
+    width: 40%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.con

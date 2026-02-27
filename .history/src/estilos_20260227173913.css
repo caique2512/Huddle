@@ -1,0 +1,9 @@
+body {
+    background: url(../images/bg-desktop.svg) no-repeat;
+    background-size: contain;
+    background-color: #674BB2;
+}
+
+.Logo img{
+    font-size: 0.625rem;
+}

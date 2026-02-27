@@ -1,0 +1,11 @@
+body {
+    background: url(../images/bg-desktop.svg) no-repeat;
+    background-size: contain;
+    background-color: #674BB2;
+    padding: 50px;
+}
+
+.logo{
+    font-size: 12px;
+    margin-bottom: 50px;
+}
